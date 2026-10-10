@@ -1,23 +1,24 @@
-
 {
-  "id": "https://www.onegate.cyou/",
-  "name": "QRAI Studio",
-  "short_name": "QRAI",
-  "description": "Smart QR Code Generator. Create, customize, and download QR codes with colors and logos.",
-  "start_url": "https://www.onegate.cyou/",
-  "scope": "https://www.onegate.cyou/",
-  "display": "standalone",
-  "orientation": "any",
-  "dir": "ltr",
-  "lang": "en",
-  "theme_color": "#080d1b",
-  "background_color": "#080d1b",
-  "icons": [
-    {
-      "src": "https://smichelle10.github.io/qrai-app/icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
+"id": "https://www.onegate.cyou/",
+"name": "QRAI Studio",
+"short_name": "QRAI",
+"description": "Smart QR Code Generator. Create, customize, and download QR codes with colors and logos.",
+"start_url": "https://www.onegate.cyou/",
+"scope": "https://www.onegate.cyou/",
+"display": "standalone",
+"orientation": "any",
+"dir": "ltr",
+"lang": "en",
+"theme_color": "#080d1b",
+"background_color": "#080d1b",
+"categories": ["utilities", "productivity"],
+"prefer_related_applications": false,
+"icons": [
+{
+"src": "https://smichelle10.github.io/qrai-app/icon.svg",
+"sizes": "512x512",
+"type": "image/svg+xml",
+"purpose": "any"
+}
+]
 }
