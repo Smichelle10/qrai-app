@@ -14,13 +14,13 @@
 "categories": ["utilities", "productivity"],
 "prefer_related_applications": false,
 
+
 "icons": [
   {
-    "src": "https://smichelle10.github.io/qrai-app/1791635756644.jpg",
+    "src": "https://smichelle10.github.io/qrai-app/qrai.png",
     "sizes": "1024x1024",
-    "type": "image/jpeg",
+    "type": "image/png",
     "purpose": "any"
   }
 ]
-
 }
